@@ -1,42 +1,42 @@
 <Document>
-  # Space Law: Crime Listing
-  Crime codes are colored by linked crime groups, which are collections of non-stackable crimes. Suffixes are also included in the Quick Crime Guide to identify linked crimes.
+  # Prawo Kosmiczne: Lista Przestępstw
+  Kody przestępstw są kolorowane według powiązanych grup przestępstw, które są kolekcjami przestępstw nie podlegających kumulacji. Sufiksy są również uwzględnione w Szybkim Przewodniku Przestępstw w celu identyfikacji powiązanych przestępstw.
 
-  ## Quick Crime Guide
+  ## Szybki Przewodnik Przestępstw
   <Table Columns="6">
     <ColorBox>
       <Box>
-        1-XX - Minor
+        1-XX - Drobne
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        2-XX - Moderate
+        2-XX - Umiarkowane
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        3-XX - Major
+        3-XX - Poważne
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        4-XX - Extreme
+        4-XX - Skrajne
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        5-XX - Capital
+        5-XX - Kapitalne
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Code
+        Kod
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Animal Cruelty
+        Okrucieństwo wobec Zwierząt
       </Box>
     </ColorBox>
     <ColorBox Color="#593a4e">
@@ -51,12 +51,12 @@
     </ColorBox>
     <ColorBox Color="#593a4e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Breach of Custody (E)
+        Naruszenie Aresztu (E)
       </Box>
     </ColorBox>
     <ColorBox Color="#593a4e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Refusal of Mental Shielding (E)
+        Odmowa Osłony Mentalnej (E)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -66,17 +66,17 @@
     </ColorBox>
     <ColorBox Color="#2f3832">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession: Minor (P)
+        Posiadanie: Drobne (P)
       </Box>
     </ColorBox>
     <ColorBox Color="#2f3832">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession: Major (P)
+        Posiadanie: Poważne (P)
       </Box>
     </ColorBox>
     <ColorBox Color="#2f3832">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession: Syndicate (P)
+        Posiadanie: Syndykat (P)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -94,7 +94,7 @@
     </ColorBox>
     <ColorBox Color="#2e422e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Petty Theft (H)
+        Drobna Kradzież (H)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -103,12 +103,12 @@
     </ColorBox>
     <ColorBox Color="#2e422e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Grand Theft (H)
+        Wielka Kradzież (H)
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Kidnapping
+        Porwanie
       </Box>
     </ColorBox>
     <ColorBox>
@@ -122,17 +122,17 @@
     </ColorBox>
     <ColorBox Color="#453a59">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Vandalism (D)
+        Wandalizm (D)
       </Box>
     </ColorBox>
     <ColorBox Color="#453a59">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Damage of Property (D)
+        Uszkodzenie Mienia (D)
       </Box>
     </ColorBox>
     <ColorBox Color="#453a59">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Mass Destruction (D)
+        Masowe Zniszczenie (D)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -141,7 +141,7 @@
     </ColorBox>
     <ColorBox Color="#453a59">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Station-Wide Destruction (D)
+        Zniszczenie Całej Stacji (D)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -151,7 +151,7 @@
     </ColorBox>
     <ColorBox Color="#59563a">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Trespass (T)
+        Wtargnięcie (T)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -160,7 +160,7 @@
     </ColorBox>
     <ColorBox Color="#59563a">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Secure Trespass (T)
+        Bezpieczne Wtargnięcie (T)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -182,22 +182,22 @@
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Endangerment (V)
+        Narażanie na Niebezpieczeństwo (V)
       </Box>
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Assault (V)
+        Napaść (V)
       </Box>
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Attempted Murder (V)
+        Próba Morderstwa (V)
       </Box>
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Prevention of Revival (V)
+        Zapobieganie Wskrzeszeniu (V)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -215,17 +215,17 @@
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Manslaughter (V)
+        Nieumyślne Zabójstwo (V)
       </Box>
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Murder (V)
+        Morderstwo (V)
       </Box>
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Mass Murder (V)
+        Masowe Morderstwo (V)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -235,7 +235,7 @@
     </ColorBox>
     <ColorBox Color="#3b4354">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Disturbance (R)
+        Zakłócanie Porządku (R)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -244,7 +244,7 @@
     </ColorBox>
     <ColorBox Color="#3b4354">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Rioting (R)
+        Zamieszki (R)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -262,38 +262,38 @@
     </ColorBox>
   </Table>
 
-  ## Minor Crimes
-  - Warnings should be issued for a first offense.
-  - If multiple minor crimes have been committed or it is a repeat offense, 5 minutes per minor crime is the maximum.
+  ## Przestępstwa Drobne
+  - Ostrzeżenia powinny być wydawane za pierwsze przestępstwo.
+  - Jeśli popełniono wiele drobnych przestępstw lub jest to powtarzające się przestępstwo, maksymalnie 5 minut za drobne przestępstwo.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Offense
+        Przestępstwo
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Opis
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Notes
+        Uwagi
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Code
+        Kod
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Animal Cruelty
+        Okrucieństwo wobec Zwierząt
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To inflict unnecessary suffering or harm on a non-sapient being with malicious intent.
+        Zadawanie niepotrzebnego cierpienia lub krzywdy nierozumnej istocie ze złośliwym zamiarem.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -309,7 +309,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession/Use of Minor Contraband
+        Posiadanie/Używanie Drobnej Kontrabandy
       </Box>
     </ColorBox>
     <ColorBox>
@@ -329,7 +329,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Petty Theft
+        Drobna Kradzież
       </Box>
     </ColorBox>
     <ColorBox>
@@ -414,23 +414,23 @@
     </ColorBox>
   </Table>
 
-  ## Moderate Crimes
-  - The maximum sentence per moderate crime is 5 minutes.
-  - Depending on the situation you may want to issue a warning instead of a detaining.
+  ## Przestępstwa Umiarkowane
+  - Maksymalny wyrok za przestępstwo umiarkowane to 5 minut.
+  - W zależności od sytuacji możesz chcieć wydać ostrzeżenie zamiast zatrzymania.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Offense
+        Przestępstwo
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Opis
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Notes
+        Uwagi
       </Box>
     </ColorBox>
     <ColorBox>
@@ -440,7 +440,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Failure to Comply
+        Niepodporządkowanie się
       </Box>
     </ColorBox>
     <ColorBox>
@@ -502,7 +502,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Endangerment
+        Narażanie na Niebezpieczeństwo
       </Box>
     </ColorBox>
     <ColorBox>
@@ -522,24 +522,24 @@
     </ColorBox>
   </Table>
 
-  ## Major Crimes
-  - The maximum sentence per major crime is 10 minutes.
-  - Assault and Manslaughter are linked crimes, and cannot be stacked against a suspect.
-  - It is recommended to not use maximum sentences for those being compliant.
+  ## Przestępstwa Poważne
+  - Maksymalny wyrok za przestępstwo poważne to 10 minut.
+  - Napaść i Nieumyślne Zabójstwo to powiązane przestępstwa i nie mogą być kumulowane przeciwko podejrzanemu.
+  - Zaleca się nie używać maksymalnych wyroków dla tych, którzy są uległy.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Offense
+        Przestępstwo
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Opis
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Notes
+        Uwagi
       </Box>
     </ColorBox>
     <ColorBox>
@@ -612,7 +612,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Mass Destruction
+        Masowe Zniszczenie
       </Box>
     </ColorBox>
     <ColorBox>
@@ -633,7 +633,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Secure Trespass
+        Bezpieczne Wtargnięcie
       </Box>
     </ColorBox>
     <ColorBox>
@@ -714,25 +714,25 @@
     </ColorBox>
   </Table>
 
-  ## Extreme Crimes
-  - The maximum sentence per extreme crime is 15 minutes.
-  - Particularly violent offenders may be placed in perma. (Attacking officers in an attempt to escape prison)
-  - Attempted murder and murder are linked crimes and cannot be stacked together.
-  - Attempted murderers should be granted a more lenient sentence than a murderer.
+  ## Przestępstwa Skrajne
+  - Maksymalny wyrok za przestępstwo skrajne to 15 minut.
+  - Szczególnie brutalni przestępcy mogą zostać umieszczeni w perma. (Atakowanie oficerów w próbie ucieczki z więzienia)
+  - Próba morderstwa i morderstwo to powiązane przestępstwa i nie mogą być kumulowane razem.
+  - Osoby próbujące popełnić morderstwo powinny otrzymać łagodniejszy wyrok niż morderca.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Offense
+        Przestępstwo
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Opis
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Notes
+        Uwagi
       </Box>
     </ColorBox>
     <ColorBox>
@@ -742,7 +742,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Breach of Custody
+        Naruszenie Aresztu
       </Box>
     </ColorBox>
     <ColorBox>
@@ -802,7 +802,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Murder
+        Morderstwo
       </Box>
     </ColorBox>
     <ColorBox>
@@ -822,32 +822,32 @@
     </ColorBox>
   </Table>
 
-  ## Capital Crimes
-  - Capital crimes should usually lead to a death sentence or shift lasting detainment.
+  ## Przestępstwa Kapitalne
+  - Przestępstwa kapitalne powinny zazwyczaj prowadzić do wyroku śmierci lub trwałego zatrzymania na zmianę.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Offense
+        Przestępstwo
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Opis
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Notes
+        Uwagi
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Code
+        Kod
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Refusal of Mental Shielding
+        Odmowa Osłony Mentalnej
       </Box>
     </ColorBox>
     <ColorBox>
@@ -867,7 +867,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Station-Wide Destruction
+        Zniszczenie Całej Stacji
       </Box>
     </ColorBox>
     <ColorBox>
@@ -887,7 +887,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Prevention of Revival
+        Zapobieganie Wskrzeszeniu
       </Box>
     </ColorBox>
     <ColorBox>
@@ -907,7 +907,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Mass Murder
+        Masowe Morderstwo
       </Box>
     </ColorBox>
     <ColorBox>

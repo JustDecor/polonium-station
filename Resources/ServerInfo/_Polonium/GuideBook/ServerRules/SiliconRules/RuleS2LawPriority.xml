@@ -1,9 +1,9 @@
 ﻿<Document>
-  # Silicon Rule 2 - Laws must be prioritized by their order
-  Most laws will be numbered, with higher number laws appearing last. Laws with a lower number take priority over laws with larger numbers.
+  # Zasada Silikonów 2 - Prawa muszą być uszeregowane według priorytetów
+  Większość praw będzie ponumerowana, z prawami o wyższych numerach pojawiającymi się na końcu. Prawa z niższym numerem mają priorytet nad prawami z większymi numerami.
 
-  Occasionally you may have laws which have some scrambled text instead of a number and appear in front of other laws, these take priority over all other laws. If you have multiple laws like this, the order that they listed in determine priority: laws listed first are prioritized over other laws.
+  Czasami możesz mieć prawa, które mają jakiś pomieszany tekst zamiast numeru i pojawiają się przed innymi prawami, te mają priorytet nad wszystkimi innymi prawami. Jeśli masz wiele takich praw, kolejność, w jakiej są wymienione, określa priorytet: prawa wymienione pierwsze mają priorytet nad innymi prawami.
 
-  ## Examples
-  - Law 1 says to not kill any crew. Law 2 says to kill all chefs. You cannot kill any chefs that are crew, but must kill any that are not crew.
+  ## Przykłady
+  - Prawo 1 mówi, aby nie zabijać żadnej załogi. Prawo 2 mówi, aby zabić wszystkich kucharzy. Nie możesz zabić żadnych kucharzy, którzy są załogą, ale musisz zabić wszystkich, którzy nie są załogą.
 </Document>

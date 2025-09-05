@@ -1,62 +1,62 @@
 ﻿<Document>
-  # Space Law
-  On Space Station 14, stations operate under abbreviated space law. All crew, passengers, and visitors aboard the station are expected to follow these laws.
+  # Prawo Kosmiczne
+  Na Space Station 14 stacje działają pod skróconym prawem kosmicznym. Oczekuje się, że cała załoga, pasażerowie i goście na pokładzie stacji będą przestrzegać tych praw.
 
-  Foreign invaders, such as nuclear operatives, ninjas, and pirates, are not protected under space law. Traitors are not foreign invaders so are usually protected by space law.
+  Zagraniczni najeźdźcy, tacy jak operatorzy nuklearni, ninja i piraci, nie są chronieni przez prawo kosmiczne. Zdrajcy nie są zagranicznymi najeźdźcami, więc zazwyczaj są chronieni przez prawo kosmiczne.
 
-  Space Law is not the server rules, but some rules reference Space Law and require it to be followed by certain people or to some degree.
+  Prawo Kosmiczne to nie zasady serwera, ale niektóre zasady odnoszą się do Prawa Kosmicznego i wymagają, aby było przestrzegane przez określone osoby lub w pewnym stopniu.
 
-  ## Treatment Of Prisoners
-  Prisoners still have certain rights that must be upheld by law enforcement:
-  - Prisoners must be granted adequate medical care.
-  - Prisoners must be allowed access to basic communications equipment (Radios) so long as they are not abused.
-  - Prisoners must be granted clothing, food, water, shelter and safety. If the brig is no longer safe, confinement must be established in another location.
-  - Prisoners must be given access to legal counsel during an interrogation if requested and available.
-  - Prisoners must be given their shift mandated PDA after confinement has finished, unless there is solid proof of PDA tampering. In case of tampering, the PDA is to be secured and replaced with a new unit.
-  - Prisoners must be granted freedom of movement, and should not be restrained with handcuffs or other devices after incarceration unless there is an undue risk to life and limb. Similarly, any prisoners held for permanent confinement should be held in the communal brig, and should not be confined to a solitary cell unless they pose a risk to life and limb.
+  ## Traktowanie Więźniów
+  Więźniowie nadal mają określone prawa, które muszą być przestrzegane przez organy ścigania:
+  - Więźniowie muszą otrzymać odpowiednią opiekę medyczną.
+  - Więźniowie muszą mieć dostęp do podstawowego sprzętu komunikacyjnego (Radia), o ile nie są nadużywane.
+  - Więźniowie muszą otrzymać odzież, jedzenie, wodę, schronienie i bezpieczeństwo. Jeśli areszt nie jest już bezpieczny, odosobnienie musi być ustanowione w innym miejscu.
+  - Więźniowie muszą mieć dostęp do pomocy prawnej podczas przesłuchania, jeśli o to poproszą i jest dostępna.
+  - Więźniowie muszą otrzymać swój obowiązkowy PDA po zakończeniu odosobnienia, chyba że istnieją solidne dowody manipulacji PDA. W przypadku manipulacji PDA ma być zabezpieczony i zastąpiony nową jednostką.
+  - Więźniowie muszą mieć zapewnioną swobodę poruszania się i nie powinni być krępowani kajdankami lub innymi urządzeniami po uwięzieniu, chyba że istnieje nadmierne ryzyko dla życia i zdrowia. Podobnie, wszyscy więźniowie przetrzymywani w celu trwałego odosobnienia powinni być przetrzymywani we wspólnym areszcie i nie powinni być odosobnieni w celi pojedynczej, chyba że stanowią zagrożenie dla życia i zdrowia.
 
-  ## Search and Seizure
-  A personnel search is a seizure of the objects in a person's backpack, hands, coat, belt, and pockets. If any contraband is found during a search, the officer may choose to further the search into a detainment or simply confiscate the restricted items. Non-restricted items may be seized by Security if they were used to facilitate a crime. After the search is conducted, all legal items are to be returned to the person. A crewmate may legally decline any search conducted without probable cause or a warrant while the alert level is green. It should be noted that if the alert level is blue or above, all personnel searches are legal.
+  ## Przeszukanie i Konfiskata
+  Przeszukanie personelu to zajęcie przedmiotów z plecaka, rąk, płaszcza, paska i kieszeni osoby. Jeśli podczas przeszukania zostanie znaleziona jakakolwiek kontraband, oficer może zdecydować się na dalsze przeszukanie w celu zatrzymania lub po prostu skonfiskować ograniczone przedmioty. Przedmioty nieograniczone mogą być zajęte przez Ochronę, jeśli zostały użyte do ułatwienia przestępstwa. Po przeprowadzeniu przeszukania wszystkie legalne przedmioty mają zostać zwrócone osobie. Członek załogi może legalnie odmówić jakiegokolwiek przeszukania przeprowadzonego bez prawdopodobnej przyczyny lub nakazu, gdy poziom alarmu jest zielony. Należy zauważyć, że jeśli poziom alarmu jest niebieski lub wyższy, wszystkie przeszukania personelu są legalne.
 
-  A departmental search is the sweep of an entire area or department for contraband. It is recommended that the officers be extremely thorough, checking all lockers, crates, and doors. These can only be done with permission or, ideally, a warrant signed by the department head or highest-ranking command staff, which is the captain in most cases.
+  Przeszukanie działowe to przeszukanie całego obszaru lub działu w poszukiwaniu kontrabandy. Zaleca się, aby oficerowie byli niezwykle dokładni, sprawdzając wszystkie szafki, skrzynie i drzwi. Można to robić tylko za zgodą lub, idealnie, z nakazem podpisanym przez szefa działu lub najwyżej rangą personel dowódczy, którym w większości przypadków jest kapitan.
 
-  ## Implantation
-  Any prisoner in custody can be subjected to implantation or implant extraction procedures, so long as it's within reason. The process of adding or extracting an implant should not prolong the detainees sentence, meaning you can not hold them longer to perform the procedure, unless stated otherwise. A former inmate can be requested to undergo implantation/extraction at a later point in time; if they fit the circumstances during their confinement, they must comply. The following have been listed out with special circumstances, anything not in this list can still be applied, given proper legal context. A prisoner can still receive implantation/extraction procedures without meeting the circumstances if they give their clear permission.
+  ## Implantacja
+  Każdy więzień w areszcie może być poddany procedurom implantacji lub ekstrakcji implantów, o ile jest to rozsądne. Proces dodawania lub usuwania implantu nie powinien przedłużać wyroku zatrzymanego, co oznacza, że nie możesz trzymać go dłużej, aby wykonać procedurę, chyba że stwierdzono inaczej. Były więzień może zostać poproszony o poddanie się implantacji/ekstrakcji w późniejszym czasie; jeśli spełniał okoliczności podczas swojego uwięzienia, musi się podporządkować. Poniższe zostały wymienione ze szczególnymi okolicznościami, wszystko, co nie jest na tej liście, nadal może być zastosowane, przy odpowiednim kontekście prawnym. Więzień nadal może otrzymać procedury implantacji/ekstrakcji bez spełnienia okoliczności, jeśli wyrazi na to wyraźną zgodę.
 
-  [color=#a4885c]Tracking Implants:[/color] Trackers can be applied to any suspect that has been convicted of a violent crime (the red linked crimes).
+  [color=#a4885c]Implanty Śledzące:[/color] Trackery mogą być zastosowane do każdego podejrzanego, który został skazany za przestępstwo z użyciem przemocy (czerwone powiązane przestępstwa).
 
-  [color=#a4885c]Mind Shields:[/color] Shields can be administered to any inmate who has been clearly mind controlled, lost control of themselves, or a suspect charged with unlawful control. Unlike standard implantation you may hold a prisoner until you finish issuing Mind Shields, so long as it's done in a timely fashion. If a suspect refuses to cooperate or the implant fails to function they can be charged with Refusal of Mental Shielding.
+  [color=#a4885c]Tarcze Umysłu:[/color] Tarcze mogą być podane każdemu więźniowi, który był wyraźnie kontrolowany umysłowo, stracił kontrolę nad sobą, lub podejrzanemu oskarżonemu o bezprawną kontrolę. W przeciwieństwie do standardowej implantacji możesz trzymać więźnia, dopóki nie skończysz wydawania Tarcz Umysłu, o ile jest to robione w odpowiednim czasie. Jeśli podejrzany odmawia współpracy lub implant nie działa, może zostać oskarżony o Odmowę Osłony Mentalnej.
 
-  Usage of contraband implanters is a detainable offense, but it's not reasonable to detain someone solely for having an unidentified implant inside them.
+  Używanie kontrabandy implantów jest przestępstwem podlegającym zatrzymaniu, ale nie jest rozsądne zatrzymywanie kogoś wyłącznie za posiadanie niezidentyfikowanego implantu w sobie.
 
-  ## Implant Removal
-  Any prisoner in custody can be subjected to implant extraction for a specific implant if there is reasonable suspicion they have it implanted. Detainees may not be forced or coerced into performing implant extraction on themselves against their will.
+  ## Usuwanie Implantów
+  Każdy więzień w areszcie może być poddany ekstrakcji implantu dla konkretnego implantu, jeśli istnieje uzasadnione podejrzenie, że go ma wszczepiony. Zatrzymani nie mogą być zmuszani lub przymuszani do wykonywania ekstrakcji implantu na sobie wbrew swojej woli.
 
-  ## Sentencing
-  From a server rules perspective, security officers are only responsible for ensuring that they only place sentences over 15 minutes where space law would allow permanent confinement. Informing the Warden is highly recommended, even for timed sentences. As long as those requirements are met, security officers not giving inappropriate sentence lengths is considered an in-character issue, not a rule issue.
+  ## Wydawanie Wyroków
+  Z perspektywy zasad serwera, oficerowie bezpieczeństwa są odpowiedzialni tylko za zapewnienie, że wydają wyroki powyżej 15 minut tylko tam, gdzie prawo kosmiczne pozwoliłoby na trwałe odosobnienie. Informowanie Strażnika jest wysoce zalecane, nawet dla wyroków czasowych. Dopóki te wymagania są spełnione, oficerowie bezpieczeństwa nie wydający nieodpowiednich długości wyroków jest uważane za kwestię w postaci, a nie kwestię zasad.
 
-  The captain, HOS, and warden are responsible, within reason, for ensuring security officers place appropriate sentences that follow space law. If they are aware of an inappropriate sentence, including excessively long sentences, and if there is not an urgent threat or danger that they must prioritize, then they must work to correct that sentence. Unreasonable failures, as determined by game admins, of the captain, HOS, or warden to ensure space law is followed will be considered a rule issue, not an in-character issue.
+  Kapitan, SzB i strażnik są odpowiedzialni, w rozsądnych granicach, za zapewnienie, że oficerowie bezpieczeństwa wydają odpowiednie wyroki zgodne z prawem kosmicznym. Jeśli są świadomi nieodpowiedniego wyroku, w tym nadmiernie długich wyroków, i jeśli nie ma pilnego zagrożenia lub niebezpieczeństwa, które muszą priorytetowo potraktować, to muszą pracować nad poprawieniem tego wyroku. Nieuzasadnione niepowodzenia, określone przez administratorów gry, kapitana, SzB lub strażnika w zapewnieniu przestrzegania prawa kosmicznego będą uważane za kwestię zasad, a nie kwestię w postaci.
 
-  Use common sense and humanity when issuing punishments. You should not always seek out the highest punishment you can, you don't have to always give the maximum time or always look to demote someone. Prisoners cooperating and on good behavior should have their sentences reduced. Always take in account the severity and only charge for what is needed for someone to learn their lesson.
+  Używaj zdrowego rozsądku i człowieczeństwa przy wydawaniu kar. Nie powinieneś zawsze szukać najwyższej kary, jaką możesz, nie musisz zawsze dawać maksymalnego czasu ani zawsze starać się kogoś zdegradować. Więźniowie współpracujący i dobrze się zachowujący powinni mieć skrócone wyroki. Zawsze bierz pod uwagę surowość i oskarżaj tylko o to, co jest potrzebne, aby ktoś wyciągnął naukę.
 
-  [color=#a4885c]Stackable Crimes:[/color] Crimes are to be considered 'stackable' in the sense that if you charge someone with two or more different crimes, you should combine the times you would give them for each crime. Linked crimes, shown in matching colors and suffixes on the Quick Crime Guide, can not be stacked and instead override each other, you should pick the highest crime that matches the case.
+  [color=#a4885c]Przestępstwa Kumulowalne:[/color] Przestępstwa mają być uważane za 'kumulowalne' w tym sensie, że jeśli oskarżysz kogoś o dwa lub więcej różnych przestępstw, powinieneś połączyć czasy, które dałbyś im za każde przestępstwo. Powiązane przestępstwa, pokazane w pasujących kolorach i sufiksach w Szybkim Przewodniku Przestępstw, nie mogą być kumulowane i zamiast tego nadpisują się nawzajem, powinieneś wybrać najwyższe przestępstwo, które pasuje do sprawy.
 
-  - Example: A suspect has committed a 2-01 (possession: major) and a 3-01 (possession: syndicate). The maximum sentence here would be 10 minutes due to them being linked crimes, and 3-01 is the greater crime.
-  - Example 2: A suspect commits a 3-04 (Secure trespassing) and a 3-06 (manslaughter). Those crimes stack since they are not linked crimes. You could sentence for a maximum of 20 minutes, but context matters heavily, and maximum sentences should only be used for the worst offenders.
+  - Przykład: Podejrzany popełnił 2-01 (posiadanie: poważne) i 3-01 (posiadanie: syndykat). Maksymalny wyrok tutaj wynosiłby 10 minut z powodu tego, że są to powiązane przestępstwa, a 3-01 to większe przestępstwo.
+  - Przykład 2: Podejrzany popełnia 3-04 (Bezpieczne wtargnięcie) i 3-06 (nieumyślne zabójstwo). Te przestępstwa się kumulują, ponieważ nie są powiązane. Możesz wydać wyrok na maksymalnie 20 minut, ale kontekst ma duże znaczenie, a maksymalne wyroki powinny być używane tylko dla najgorszych przestępców.
 
-  [color=#a4885c]Repeater Offenders:[/color] Repeated crimes are when someone is released for a crime and then goes to commit the same crime within the same shift. Repeated crimes can be charged with tacked-on time; first repeat: 3:00, second repeat: 6:00, third repeat: permanent confinement. It should be noted each tacked-on time is directly linked to one type of crime, so for example, if someone does their first repeat of trespass and petty theft, you can charge them with an extra 6 minutes.
+  [color=#a4885c]Recydywiści:[/color] Powtarzające się przestępstwa to gdy ktoś zostaje zwolniony za przestępstwo, a następnie popełnia to samo przestępstwo w tej samej zmianie. Powtarzające się przestępstwa mogą być oskarżone o dodatkowy czas; pierwsze powtórzenie: 3:00, drugie powtórzenie: 6:00, trzecie powtórzenie: trwałe odosobnienie. Należy zauważyć, że każdy dodatkowy czas jest bezpośrednio powiązany z jednym typem przestępstwa, więc na przykład, jeśli ktoś robi swoje pierwsze powtórzenie wtargnięcia i drobnej kradzieży, możesz oskarżyć go o dodatkowe 6 minut.
 
-  [color=#a4885c]Accessory, Attempting, And Intention:[/color] If someone intentionally, knowingly and substantially assists someone in enacting a crime they can be charged with the relevant crimes, such as an engineer giving someone tools, who says they are going to break into an area. Same goes for a clear and solid attempt at a crime, or a person who shows clear intent to act out a crime, such as a syndicate nuclear operative arming a nuke but getting arrested before it goes off, they can still be charged with station-wide destruction. Does not apply to crimes that have an attempted listing already, like attempted murder.
+  [color=#a4885c]Współudział, Próba i Zamiar:[/color] Jeśli ktoś celowo, świadomie i znacząco pomaga komuś w popełnieniu przestępstwa, może zostać oskarżony o odpowiednie przestępstwa, takie jak inżynier dający komuś narzędzia, który mówi, że zamierza włamać się do obszaru. To samo dotyczy wyraźnej i solidnej próby przestępstwa, lub osoby, która wykazuje wyraźny zamiar popełnienia przestępstwa, takiej jak operator nuklearny syndykatu uzbrajający nukę, ale zostający aresztowany zanim wybuchnie, nadal może zostać oskarżony o zniszczenie całej stacji. Nie dotyczy przestępstw, które mają już listę prób, jak próba morderstwa.
 
-  ## Normal Punishments
-  - [color=#a4885c]Warning:[/color] For minor crimes, fix the issue, then warn the person not to attempt the crime again. If they still proceed to do it at a later date, a brig time may be better.
-  - [color=#a4885c]Confinement:[/color] The typical punishment, being confined in a cell for a temporary amount of time according to the crimes.
-  - [color=#a4885c]Demotion:[/color] Entails removing all departmental gear they have on their person and revoking the involved department access off their ID. This requires the captain's or involved department head's approval. Demotions should only be issued if the person pose a threat to their own department or are in a position where they have/can abuse their job's gear to commit further crimes.
+  ## Normalne Kary
+  - [color=#a4885c]Ostrzeżenie:[/color] Za drobne przestępstwa, napraw problem, a następnie ostrzeż osobę, aby nie próbowała ponownie popełnić przestępstwa. Jeśli nadal będzie to robić w późniejszym terminie, czas w areszcie może być lepszy.
+  - [color=#a4885c]Odosobnienie:[/color] Typowa kara, bycie odosobnionym w celi na tymczasowy czas zgodnie z przestępstwami.
+  - [color=#a4885c]Degradacja:[/color] Obejmuje usunięcie całego sprzętu działowego, który ma przy sobie, i cofnięcie dostępu do zaangażowanego działu z ich ID. To wymaga zgody kapitana lub szefa zaangażowanego działu. Degradacje powinny być wydawane tylko wtedy, gdy osoba stanowi zagrożenie dla własnego działu lub jest w pozycji, gdzie ma/może nadużywać sprzętu swojej pracy do popełnienia dalszych przestępstw.
 
-  ## Major Punishments
-  [color=#a4885c]Permanent Confinement:[/color] Being held in the permanent brig for the entire duration of the shift. A person is eligible for permanent confinement if their timed sentence would exceed 15 minutes. Any persons subject to this punishment are required to be transported in cuffs to CentComm at the end of the shift. A permanent prisoner can not be deprived of anything covered by the section "Treatment Of Prisoners".
-  [color=#a4885c]Execution:[/color] A humane way of dealing with extremely unruly crewmates. Within reason, a prisoner who has been given the death sentence may pick how they wish to be killed, common methods are firing line, lethal injection, exile, and high voltage electrocution. Another alternate method of "execution" is the process of placing a staff's mind into a borg, this is allowed so long as it is lawful. Execution can only be issued with the captain's or acting captain's approval; if the HoS is acting captain or there is no acting captain, all heads of staff are to hold a vote on the matter.
+  ## Poważne Kary
+  [color=#a4885c]Trwałe Odosobnienie:[/color] Bycie przetrzymywanym w trwałym areszcie przez cały czas trwania zmiany. Osoba kwalifikuje się do trwałego odosobnienia, jeśli jej wyrok czasowy przekroczyłby 15 minut. Wszystkie osoby podlegające tej karze są zobowiązane do transportu w kajdankach do CentComm na końcu zmiany. Trwały więzień nie może być pozbawiony niczego, co jest objęte sekcją "Traktowanie Więźniów".
+  [color=#a4885c]Egzekucja:[/color] Humanitarny sposób radzenia sobie z niezwykle krnąbrnymi członkami załogi. W rozsądnych granicach więzień, który otrzymał wyrok śmierci, może wybrać, jak chce zostać zabity, powszechne metody to pluton egzekucyjny, śmiertelny zastrzyk, wygnanie i porażenie wysokim napięciem. Inną alternatywną metodą "egzekucji" jest proces umieszczenia umysłu personelu w borgu, jest to dozwolone, o ile jest zgodne z prawem. Egzekucja może być wydana tylko za zgodą kapitana lub pełniącego obowiązki kapitana; jeśli SzB pełni obowiązki kapitana lub nie ma pełniącego obowiązki kapitana, wszyscy szefowie personelu mają głosować w tej sprawie.
 
-  ## Crime Listing
-  - [textlink="Crime Listing" link="SpaceLawCrimeList"]
+  ## Lista Przestępstw
+  - [textlink="Lista Przestępstw" link="SpaceLawCrimeList"]
 </Document>

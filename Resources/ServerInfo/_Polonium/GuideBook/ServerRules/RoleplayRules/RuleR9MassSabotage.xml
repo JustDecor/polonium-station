@@ -1,37 +1,37 @@
 <Document>
-  # Roleplay Rule 9 - As an antagonist, do not cause excessive death, damage, or destruction beyond your objectives
+  # Zasada Roleplayu 9 - Jako antagonista nie powoduj nadmiernej liczby zgonów, szkód lub zniszczeń wykraczających poza twoje cele
 
-  This rule is not intended to disallow reasonable steps taken to complete your objectives. As an antagonist, you can always kill in bona fide self defense. You can kill if the action of killing could potentially advance your objectives. Taking steps to permanently round remove many people who are not a threat to you is almost always excessive.
+  Ta zasada nie ma na celu zakazania rozsądnych kroków podjętych w celu ukończenia twoich celów. Jako antagonista zawsze możesz zabijać w dobrej wierze w samoobronie. Możesz zabijać, jeśli akt zabicia może potencjalnie przybliżyć twoje cele. Podejmowanie kroków w celu trwałego usunięcia z rundy wielu osób, które nie stanowią dla ciebie zagrożenia, jest prawie zawsze nadmierne.
 
-  Unless told otherwise, antags should avoid causing disruption to the station or other players that could potentially cause entire departments to stop functioning, either permanently or for a significant portion of the round. Major disruptive actions are acceptable to get evac called if the objectives require that the antagonist escapes to Centcomm, this does not include singuloose/tesloose. Antagonists should also avoid round-removing a large number of players unnecessarily.
+  Chyba że powiedziano inaczej, antagoniści powinni unikać powodowania zakłóceń na stacji lub innym graczom, które mogłyby potencjalnie spowodować, że całe działy przestaną funkcjonować, albo na stałe, albo przez znaczną część rundy. Główne działania zakłócające są akceptowalne, aby wezwać ewakuację, jeśli cele wymagają, aby antagonista uciekł do Centcomm, to nie obejmuje singuloose/tesloose. Antagoniści powinni również unikać niepotrzebnego usuwania z rundy dużej liczby graczy.
 
-  As an antagonist, killing a few objective unrelated persons in a round is not on its own a violation of this rule. Pursuing a gimmick unrelated to the objectives entirely is also permissible as long as this gimmick does not cause nonantagonists to self antag.
+  Jako antagonista, zabicie kilku osób niezwiązanych z celami w rundzie samo w sobie nie jest naruszeniem tej zasady. Dążenie do gimmicku całkowicie niezwiązanego z celami jest również dozwolone, o ile ten gimmick nie powoduje, że nie-antagoniści stają się self antag.
 
   ## MRP Amendment
 
-  As an antagonist, do not make the Emergency Shuttle uninhabitable or otherwise cause excessive death, damage, or destruction to the Emergency Shuttle.
+  Jako antagonista, nie czyń Wahadłowca Awaryjnego niezdatnym do zamieszkania ani w inny sposób nie powoduj nadmiernej śmierci, szkód lub zniszczeń Wahadłowca Awaryjnego.
 
-  ## Exemptions
- The Syndicate Agent “die a glorious death” objective allows antagonists to ignore this rule entirely. Nuclear Operatives and Wizards are also exempt from this rule as of the time of writing.
+  ## Zwolnienia
+ Cel agenta syndykatu „ponieść chwalebną śmierć” pozwala antagonistom całkowicie zignorować tę zasadę. W momencie pisania tego tekstu z zasady tej zwolnieni są również agenci nuklearni i czarodzieje.
 
-  ## Examples
-  Acceptable:
-  - Permanently round removing people who you have the objective to kill.
-  - Causing massive station damage and chaos as an antagonist with the "die a glorious death" objective.
-  - Killing anyone you see while playing as nuclear operative(s).
-  - Permanently round removing a single person so that you can impersonate them to make it easier for you to complete a steal objective.
-  - Sabotaging station power 10 minutes into the round to try to get the shuttle called because you’ve completed all of your other objectives and have one to escape on the shuttle alive. (Destroying the Particle Accelerator, TEG and all backup generation in Engineering but not loosing a singularity/tesla.)
-  - Sabotaging a department’s power 10 minutes into the round to make a steal objective easier to accomplish. (Such as cutting the departments MV power, or removing/destroying the substation.)
-  - Permanently round removing many people who have demonstrated a persistence and a capability to either kill you or interfere with the completion of your objectives.
-  - Killing an unrelated person in order to steal items held by said person, such as killing an engineer for their hardsuit and tools.
-  - As a traitor, buying a singularity attractor to guide the singularity to a kill target when it is already loosed.
-  - Bombing an entire department provided it is an attempt to kill a designated target within said department.
+  ## Przykłady
+  Akceptowalne:
+  - Trwałe usunięcie z rundy ludzi, których masz za cel zabić.
+  - Powodowanie masowych szkód na stacji i chaosu jako antagonista z celem "umrzeć chwalebną śmiercią".
+  - Zabijanie każdego, kogo widzisz, grając jako operator(zy) nuklearni.
+  - Trwałe usunięcie z rundy pojedynczej osoby, abyś mógł się pod nią podszyć, aby ułatwić sobie wykonanie celu kradzieży.
+  - Sabotowanie zasilania stacji po 10 minutach rundy, aby spróbować wezwać prom, ponieważ zrealizowałeś wszystkie pozostałe cele i pozostała Ci tylko ucieczka promem. (Zniszczenie akceleratora cząstek, TEG i wszystkich zapasowych generatorów w maszynowni, ale bez utraty osobliwości/tesli).
+  - Sabotowanie zasilania działu po 10 minutach rundy, aby ułatwić osiągnięcie celu kradzieży. (Na przykład odcięcie zasilania MV działu lub usunięcie/zniszczenie podstacji).
+  - Trwałe usunięcie z rundy wielu ludzi, którzy wykazali się uporczywością i zdolnością do zabicia cię lub przeszkodzenia w wykonaniu twoich celów.
+  - Zabijanie niezwiązanej osoby w celu kradzieży przedmiotów posiadanych przez tę osobę, takich jak zabicie inżyniera dla jego kombinezonu i narzędzi.
+  - Jako zdrajca, kupowanie przyciągacza osobliwości, aby skierować osobliwość na cel zabójstwa, gdy jest już uwolniona.
+  - Bombardowanie całego działu, pod warunkiem, że jest to próba zabicia wyznaczonego celu w tym dziale.
 
-  Prohibited:
-  - As a traitor with 3 kill objectives, taking steps to permanently round remove many non-objective people who are no longer an immediate threat to you, even if it is done to prevent yourself from being discovered.
-  - Setting up an electrified grille in maintenance and using it to kill anyone who walks into it with the hope that one of your objectives will be one of them.
-  - Sabotaging power station-wide 10 minutes into the round to make a steal objective easier to accomplish. (Such as destroying the TEG, Particle Accelerator and all backup generators in Engineering.)
-  - Loosing the tesla or singularity in the hope that it kills your objectives.
-  - Seeking out and gibbing/round removing an entire department and random people for no actual reason. This includes the security department.
-  - Loosing the tesla or singularity in order to get evac called, even if objectives are already completed.
+  Zabronione:
+  - Jako zdrajca z 3 celami zabójstwa, podejmowanie kroków w celu trwałego usunięcia z rundy wielu osób nie będących celami, które nie stanowią już bezpośredniego zagrożenia dla ciebie, nawet jeśli jest to robione, aby zapobiec odkryciu cię.
+  - Ustawianie naelektryzowanej kraty w konserwacji i używanie jej do zabijania każdego, kto w nią wejdzie, z nadzieją, że jeden z twoich celów będzie jednym z nich.
+  - Sabotażowanie zasilania na całej stacji 10 minut po rozpoczęciu rundy, aby ułatwić wykonanie celu kradzieży. (Takie jak zniszczenie TEG, Akceleratora Cząstek i wszystkich generatorów zapasowych w Inżynierii.)
+  - Uwolnienie tesli lub osobliwości z nadzieją, że zabije twoje cele.
+  - Poszukiwanie i rozszarpywanie/usuwanie z rundy całego działu i losowych ludzi bez rzeczywistego powodu. Obejmuje to dział bezpieczeństwa.
+  - Uwolnienie tesli lub osobliwości w celu wezwania ewakuacji, nawet jeśli cele są już wykonane.
 </Document>
