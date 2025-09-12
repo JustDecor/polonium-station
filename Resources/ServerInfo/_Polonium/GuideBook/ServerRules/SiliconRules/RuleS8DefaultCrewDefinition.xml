@@ -1,4 +1,9 @@
 ﻿<Document>
+<<<<<<< HEAD
   # Zasada Silikonów 8 - Twój HUD określa, kto jest członkiem załogi
   Chyba że prawo redefiniuje definicję załogi, to każdy, kogo HUD wskazuje ci jako mającego pracę, w tym pasażerowie, jest członkiem załogi. Nie możesz zrobić czegoś, co powoduje, że ktoś nie jest uważany za załogę, ale możesz pozwolić komuś innemu zrobić coś, co powoduje, że ktoś nie jest załogą.
+=======
+  # Silicon Rule 8 - Your HUD determines who is crew
+  Unless a law redefines the definition of crew, then anyone who the HUD indicates to you has a job, including passengers, is a crewmember. You cannot do something that causes someone to not be considered crew, but you can allow someone else to do something that causes someone to not be crew.
+>>>>>>> master
 </Document>

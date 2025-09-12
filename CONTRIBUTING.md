@@ -123,6 +123,8 @@ public class Player
 
 -   ⚠️ Nie zapomnij również o sklonowaniu modułów podrzędnych: `git submodule update --init --recursive`
 
+Szczegółowe informacje na temat pracy na gałęziach znajdziesz [tutaj](#1-mam-ju%C5%BC-forka-ss14-na-swoim-profilu-wi%C4%99c-github-nie-pozwala-mi-utworzy%C4%87-forka-ps14-jak-mog%C4%99-to-obej%C5%9B%C4%87)
+
 #### 1. Twórz osobne PR dla zmian funkcji, poprawek błędów, czyszczenia i refaktoryzacji.
 
 Ułatwia to przeglądanie zmian, zmniejsza liczbę konfliktów oraz upraszcza przywracanie wcześniejszego stanu w razie problemów.
@@ -139,10 +141,7 @@ Ułatwia to przeglądanie zmian, zmniejsza liczbę konfliktów oraz upraszcza pr
 
 Należy traktować gałąź `master` jako główną gałąź projektu, do której trafiają zatwierdzone zmiany, a także na niej działa serwer.
 
-Przed dokonywaniem jakichkolwiek zmian w kodzie, upewnij się, że masz odpowiednią gałąź do tych zmian w swoim forku tego repozytorium. Powinna ona mieć nazwę, która jest technicznym "tytułem" zmiany, którą chcesz wprowadzić.
-
--   W przypadku poprawek kodu, nazwa gałęzi powinna zawierać przyrostek `-fix` na końcu. Przykłady: `belt-fix`, `item-tooltip-fix`, `clown-mask-sprite-fix`
--   W przypadku zmian wymagających pilnego przęglądu przez maintainerów, nazwa powinna kończyć się przyrostkiem `-hotfix`. Przykład: `chat-crash-fix`
+Przed dokonywaniem jakichkolwiek zmian w kodzie, upewnij się, że masz odpowiednią gałąź do tych zmian w swoim forku tego repozytorium.
 
 Więcej na temat procesu tworzenia pull requestów znajdziesz w [tym artykule](https://docs.spacestation14.com/en/general-development/setup/git-for-the-ss14-developer.html).
 
@@ -194,6 +193,7 @@ Aby to obejść, powinieneś mieć jeden **wspólny fork**, na którym będziesz
 Kluczowe jest, aby ten fork miał **poprawnie skonfigurowane remote'y**.
 
 Oto jak wyglądają twoje działania, gdy chesz mieć "drugi fork":
+*(Te kroki opisują również zwykły przebieg pracy na poszczególnych gałęziach)*
 
 1. Upewnij się, że masz już sklonowany istniejący fork na swoim komputerze.
 

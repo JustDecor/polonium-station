@@ -1,9 +1,9 @@
-gases-oxygen = Oxygen
-gases-nitrogen = Nitrogen
-gases-co2 = Carbon Dioxide
-gases-plasma = Plasma
+gases-oxygen = Tlen
+gases-nitrogen = Azot
+gases-co2 = Dwutlenek Węgla
+gases-plasma = Plazma
 gases-tritium = Tritium
-gases-water-vapor = Water Vapor
-gases-ammonia = Ammonia
-gases-n2o = Nitrous Oxide
+gases-water-vapor = Para Wodna
+gases-ammonia = Amoniak
+gases-n2o = Podtlenek Azotu
 gases-frezon = Frezon

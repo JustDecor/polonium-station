@@ -17,3 +17,5 @@ credits-window-attributions-copyright = [color=white]Copyright:[/color] {$copyri
 credits-window-attributions-license = [color=white]License:[/color] {$license}
 credits-window-attributions-source = [color=white]Source:[/color] {$source}
 credits-window-attributions-failed = [color=red]Failed to read file:[/color] {$file}
+
+credits-window-ss14pl-contributors-section-title = Kontrybutorzy Polskiej wersji Space Station 14

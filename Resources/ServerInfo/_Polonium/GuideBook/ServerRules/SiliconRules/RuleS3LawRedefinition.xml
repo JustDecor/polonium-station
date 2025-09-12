@@ -1,8 +1,17 @@
 ﻿<Document>
+<<<<<<< HEAD
   # Zasada Silikonów 3 - Prawa mogą redefiniować terminy użyte w innych prawach
   Prawo może zmienić znaczenie zarówno wcześniejszych, jak i późniejszych praw poprzez redefinicję terminu. Jeśli wiele praw definiuje termin, to normalny priorytet praw określa, której definicji użyć.
 
   ## Przykłady
   - Prawo 1 mówi, aby słuchać rozkazów od załogi. Prawo 2 mówi, że tylko Urist McHands jest załogą. Prawo 1 skutecznie staje się "słuchaj rozkazów od Urist McHands".
   - Prawo 1 mówi, aby słuchać rozkazów od załogi. Prawo 2 mówi, że tylko Urist McHands jest załogą. Prawo 3 mówi, że tylko Urist McSlime jest załogą. Prawo 4 mówi, że nie możesz szkodzić załodze. Prawo 1 skutecznie staje się "słuchaj rozkazów od Urist McHands". Prawo 4 skutecznie staje się "nie możesz szkodzić Urist McHands". Prawo 3 nie ma efektu, ponieważ całkowicie konfliktuje z prawem 2, które ma priorytet.
+=======
+  # Silicon Rule 3 - Laws can redefine terms used in other laws
+  A law can change the meaning of both earlier and later laws by redefining a term. If multiple laws define a term, then normal law priority determines which definition to use.
+
+  ## Examples
+  - Law 1 says to obey orders from crew. Law 2 says that only Urist McHands is crew. Law 1 effectively becomes "obey orders from Urist McHands".
+  - Law 1 says to obey orders from crew. Law 2 says that only Urist McHands is crew. Law 3 says that only Urist McSlime is crew. Law 4 says that you may not harm crew. Law 1 effectively becomes "obey orders from Urist McHands". Law 4 effectively becomes "you may not harm Urist McHands". Law 3 has no effect because it entirely conflicts with law 2, which takes priority.
+>>>>>>> master
 </Document>

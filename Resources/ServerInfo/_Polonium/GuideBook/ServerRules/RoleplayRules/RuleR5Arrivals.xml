@@ -1,4 +1,5 @@
 ﻿<Document>
+<<<<<<< HEAD
   # Zasada Roleplayu 5 - Nie przeszkadzaj nowym graczom
   Terminal/stacja przylotów, wahadłowiec przylotów, obszar bezpośrednio wokół wahadłowca przylotów na stacji ("przybycia") są niedostępne dla działalności antagonistycznej lub uszkodzeń (nawet dla antagonistów). Nie uniemożliwiaj ludziom bezpiecznego przybycia na stację. Nie powoduj, aby ludzie umierali natychmiast po przybyciu na stację.
 
@@ -19,4 +20,26 @@
   - Zabijanie kogoś bardzo krótko po tym, jak przybył na stację.
   - Demontaż wszystkich śluz przeciwpożarowych na przylotach.
   - Elektryfikowanie śluz dokujących przylotów.
+=======
+  # Roleplay Rule 5 - Do not interfere with arrivals
+  The arrivals terminal/station, the arrivals shuttle, at the area immediately around the arrivals shuttle at the station ("arrivals") are off-limits to antagonistic activity or damage (even to antagonists). Do not prevent people from safely arriving to the station. Do not cause people to die immediately after arriving at the station.
+
+  There is an exemption for antagonists that are allowed to perform mass station sabotage if there is no reasonable way to limit the damage of the mass station sabotage. This exemption only applies to damage that is a direct result of the mass station sabotage.
+
+  ## Examples
+  Acceptable:
+  - Redecorating arrivals or the arrivals shuttle.
+  - Remodeling arrivals or the arrivals shuttle as long as you do not make the area more dangerous both during and after the remodel.
+  - Setting up a safe security checkpoint between arrivals and the rest of the station.
+  - Killing someone who has been at arrivals for a long time, or who left arrivals and came back. (This may violate other rules depending on the situation)
+  - Releasing a singularity which damages arrivals. (This may violate other rules depending on the situation)
+  - Causing a station-wide atmospheric issue which also affects arrivals. (This may violate other rules depending on the situation)
+
+  Prohibited:
+  - Making arrivals or the arrivals shuttle uninhabitable.
+  - Attacking or killing someone at the arrivals station.
+  - Killing someone very shortly after they arrive at the station.
+  - Disassembling all the firelocks at arrivals.
+  - Electrifying the arrivals docking airlocks.
+>>>>>>> master
 </Document>
