@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: K-Dynamic
-  changes:
-  - message: Removed egg-plant from MegaSeed Servitor. (Egg-plant seeds can still
-      be obtained by mutation or exotic seed crate.)
-    type: Remove
-  id: 8232
-  time: '2025-04-18T16:42:50.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/36579
 - author: Failed, Centronias
   changes:
   - message: The drink shaker now has in-hand sprites
@@ -3887,3 +3879,14 @@
   id: 8743
   time: '2025-09-11T10:58:46.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/61
+- author: Tofi_Dev and Koilak
+  changes:
+  - message: Dodano Pistolet VIS MPS
+    type: Add
+  - message: Dodano Karabin Maszynowy PMM Model-X
+    type: Add
+  - message: "Dodano Snajperk\u0119 Alexis-Bor .30"
+    type: Add
+  id: 8744
+  time: '2025-09-13T11:45:40.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/62
