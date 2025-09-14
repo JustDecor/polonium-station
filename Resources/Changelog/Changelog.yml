@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Nox38
-  changes:
-  - message: Nuclear operative agent is renamed to nuclear operative corpsman.
-    type: Tweak
-  id: 8236
-  time: '2025-04-18T19:56:57.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34627
 - author: Ilya246
   changes:
   - message: The actions hotbar now has up to 10 more hotkeys accessible through the
@@ -3897,5 +3890,14 @@
   - message: 'Spolszczenie Tritu: Tritium -> Trit'
     type: Tweak
   id: 8747
+  time: '2025-09-14T15:16:39.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/67
+- author: Tofi
+  changes:
+  - message: 'Spolszczenie Tritu: Tritium -> Trit'
+    type: Tweak
+  - message: 'Spolszczenie Tritu: Tritium -> Trit'
+    type: Tweak
+  id: 8748
   time: '2025-09-14T15:16:39.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/67
