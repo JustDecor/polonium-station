@@ -1,5 +1,4 @@
 ﻿<Document>
-<<<<<<< HEAD
   # Rodzaje banów
 
   Bany można odwołać na Discord w sekcji odwołań od banów.
@@ -9,15 +8,4 @@
 
   ## Ban od gry
   Nazywany również "banem serwera", ten ban uniemożliwia połączenie się ze wszystkimi serwerami Wizard's Den.
-=======
-  # Ban Types
-
-  Bans can be appealed at forum.ss14.io in the ban appeals section.
-
-  ## Role Ban
-  Also called a "job ban", this ban prevents your character from joining or late-joining a round as one or more jobs or roles. These are often used in response to problematic behavior in particular departments or address gross inexperience in important roles such as heads of staff. These bans do not mechanically prevent you from switching to the role during a round or acting as that role, but doing so is considered ban evasion.
-
-  ## Game Ban
-  Also called a "server ban", this ban prevents you from connecting to all Wizard's Den servers.
->>>>>>> master
 </Document>
