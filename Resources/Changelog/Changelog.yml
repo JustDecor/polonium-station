@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Ilya246
-  changes:
-  - message: The actions hotbar now has up to 10 more hotkeys accessible through the
-      shift key.
-    type: Add
-  id: 8237
-  time: '2025-04-18T22:45:20.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33872
 - author: lzk228
   changes:
   - message: Fixed breaking small mobs (e.g. mice) mask after getting into an air
@@ -3899,5 +3891,14 @@
   - message: 'Spolszczenie Tritu: Tritium -> Trit'
     type: Tweak
   id: 8748
+  time: '2025-09-14T15:16:39.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/67
+- author: Tofi
+  changes:
+  - message: 'Spolszczenie Tritu: Tritium -> Trit'
+    type: Tweak
+  - message: 'Spolszczenie Tritu: Tritium -> Trit'
+    type: Tweak
+  id: 8749
   time: '2025-09-14T15:16:39.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/67
