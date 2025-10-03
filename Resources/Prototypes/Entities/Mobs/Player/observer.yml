@@ -32,7 +32,7 @@
 - type: entity
   parent:
   - Incorporeal
-  - BaseMob
+  - BaseMobNoSprint #Polonium Changes BaseMob
   id: MobObserverBase
   abstract: true
   name: observer
